@@ -1,0 +1,869 @@
+{
+  "search_metadata":
+  {
+      "id": "66852e322f542edd2b6e0125",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/9692b4fc9d849393/66852e322f542edd2b6e0125.json",
+      "created_at": "2024-07-03 10:55:46 UTC",
+      "processed_at": "2024-07-03 10:55:46 UTC",
+      "google_url": "https://www.google.pl/search?q=najlepsze+gry+planszowe+2024&oq=najlepsze+gry+planszowe+2024&uule=w+CAIQICIGUG9sYW5k&hl=pl&gl=pl&sourceid=chrome&ie=UTF-8",
+      "raw_html_file": "https://serpapi.com/searches/9692b4fc9d849393/66852e322f542edd2b6e0125.html",
+      "total_time_taken": 1.11
+  }
+  ,
+  "search_parameters":
+  {
+      "engine": "google",
+      "q": "najlepsze gry planszowe 2024",
+      "location_requested": "Poland",
+      "location_used": "Poland",
+      "google_domain": "google.pl",
+      "hl": "pl",
+      "gl": "pl",
+      "device": "desktop"
+  }
+  ,
+  "search_information":
+  {
+      "query_displayed": "najlepsze gry planszowe 2024",
+      "total_results": 27200000,
+      "time_taken_displayed": 0.35,
+      "organic_results_state": "Results for exact spelling"
+  }
+  ,
+  "inline_videos":
+  [
+      {
+          "position": 1,
+          "title": "Najbardziej oczekiwana gra planszowa 2024 │ Wasz i mój ...",
+          "link": "https://www.youtube.com/watch?v=WYUJdxe0aQc",
+          "thumbnail": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/4e0039809e6bc739625957358922164e13741261abf63a24f01957756ddff825.jpeg",
+          "channel": "ON TABLE Gry Planszowe",
+          "duration": "18:11",
+          "platform": "YouTube",
+          "date": "17 kwi 2024"
+      }
+      ,
+      {
+          "position": 2,
+          "title": "TOP15 - Najlepsze gry maja 2024 wg widzów Planszowych ...",
+          "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg",
+          "thumbnail": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/4e0039809e6bc7391a4f16600b3687c365c0c0580ee1e9ab8a18232a32484bee.jpeg",
+          "channel": "Planszowe Newsy",
+          "duration": "2:20:36",
+          "platform": "YouTube",
+          "date": "2 tygodnie temu",
+          "key_moments":
+          [
+              {
+                  "time": "00:00",
+                  "title": "startujemy",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=0"
+              }
+              ,
+              {
+                  "time": "03:00",
+                  "title": "witamy się i rozpędzamy",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=180"
+              }
+              ,
+              {
+                  "time": "06:46",
+                  "title": "promocja od sklepu Aleplanszówki",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=406"
+              }
+              ,
+              {
+                  "time": "07:30",
+                  "title": "newsy tygodnia",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=450"
+              }
+              ,
+              {
+                  "time": "31:53",
+                  "title": "miejsce 15",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=1913"
+              }
+              ,
+              {
+                  "time": "47:05",
+                  "title": "miejsce 14",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=2825"
+              }
+              ,
+              {
+                  "time": "51:13",
+                  "title": "miejsce 13",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=3073"
+              }
+              ,
+              {
+                  "time": "54:53",
+                  "title": "film Dawida",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=3293"
+              }
+              ,
+              {
+                  "time": "01:00:41",
+                  "title": "miejsce 12",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=3641"
+              }
+              ,
+              {
+                  "time": "01:03:33",
+                  "title": "film Pawła",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=3813"
+              }
+              ,
+              {
+                  "time": "01:12:00",
+                  "title": "miejsce 10",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=4320"
+              }
+              ,
+              {
+                  "time": "01:14:18",
+                  "title": "film Kamila",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=4458"
+              }
+              ,
+              {
+                  "time": "01:21:55",
+                  "title": "miejsce 9",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=4915"
+              }
+              ,
+              {
+                  "time": "01:24:43",
+                  "title": "film Tomka",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=5083"
+              }
+              ,
+              {
+                  "time": "01:30:33",
+                  "title": "miejsce 8",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=5433"
+              }
+              ,
+              {
+                  "time": "01:36:52",
+                  "title": "miejsce 7",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=5812"
+              }
+              ,
+              {
+                  "time": "01:40:08",
+                  "title": "film Justyny",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=6008"
+              }
+              ,
+              {
+                  "time": "01:44:54",
+                  "title": "miejsce 6",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=6294"
+              }
+              ,
+              {
+                  "time": "01:47:18",
+                  "title": "film Michała",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=6438"
+              }
+              ,
+              {
+                  "time": "01:53:10",
+                  "title": "miejsce 5",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=6790"
+              }
+              ,
+              {
+                  "time": "01:58:13",
+                  "title": "miejsce3",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=7093"
+              }
+              ,
+              {
+                  "time": "02:00:07",
+                  "title": "miejsce 2",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=7207"
+              }
+              ,
+              {
+                  "time": "02:02:16",
+                  "title": "miejsce 1",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=7336"
+              }
+              ,
+              {
+                  "time": "02:04:13",
+                  "title": "statystyki i podsumowanie",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=7453"
+              }
+              ,
+              {
+                  "time": "02:13:00",
+                  "title": "luźne pogaduchy na zakończenie",
+                  "link": "https://www.youtube.com/watch?v=8v8Qtvz7Xgg&t=7980"
+              }
+          ]
+      }
+      ,
+      {
+          "position": 3,
+          "title": "GRY PLANSZOWE NA POCZĄTEK - edycja 2024 - GRY NA ...",
+          "link": "https://www.youtube.com/watch?v=Skgn_sIHPp4",
+          "thumbnail": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/4e0039809e6bc73967adeeb1857faccd9b0820d246948fa18abcf16563db4ae3.jpeg",
+          "channel": "Zaku BoardGames",
+          "duration": "44:44",
+          "platform": "YouTube",
+          "date": "6 maj 2024",
+          "key_moments":
+          [
+              {
+                  "time": "00:00",
+                  "title": "Wstęp",
+                  "link": "https://www.youtube.com/watch?v=Skgn_sIHPp4&t=0",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpMCjcan5g7lD98MMre5k8fzdGHjBXB6Vuw2nuR26hGg&s"
+              }
+              ,
+              {
+                  "time": "02:36",
+                  "title": "Dorfromantik",
+                  "link": "https://www.youtube.com/watch?v=Skgn_sIHPp4&t=156",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNglPkJCerBgG9x3qHmY5FOYAZbJuCbDjp6CClGpwDQ&s"
+              }
+              ,
+              {
+                  "time": "05:05",
+                  "title": "Canvas",
+                  "link": "https://www.youtube.com/watch?v=Skgn_sIHPp4&t=305",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFHoxr4uz0RBTpC0rOQow7v6IXQaxyNbv0qeePDtBG9Q&s"
+              }
+              ,
+              {
+                  "time": "08:16",
+                  "title": "El Grande",
+                  "link": "https://www.youtube.com/watch?v=Skgn_sIHPp4&t=496",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlq9itIdajgz5hQZBG9Xb-ev0sqLhpEsS7bp4An_NG1Q&s"
+              }
+              ,
+              {
+                  "time": "10:00",
+                  "title": "Stranger Things",
+                  "link": "https://www.youtube.com/watch?v=Skgn_sIHPp4&t=600",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZDdJVyNon0wOEKwP1Wl5oDoSFwaus_j2KGM2y--mpzg&s"
+              }
+              ,
+              {
+                  "time": "13:32",
+                  "title": "Nocna Parada",
+                  "link": "https://www.youtube.com/watch?v=Skgn_sIHPp4&t=812",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLpcLNI8SwD1JDZtsioEDie25hYLudc8etCqI9qusskQ&s"
+              }
+              ,
+              {
+                  "time": "17:30",
+                  "title": "Biały Zamek",
+                  "link": "https://www.youtube.com/watch?v=Skgn_sIHPp4&t=1050",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY0xLHR08KuS41-virAS0zFK1y-yRCGP7qmNDI2DIUGw&s"
+              }
+              ,
+              {
+                  "time": "21:50",
+                  "title": "Następna Stacja Londyn",
+                  "link": "https://www.youtube.com/watch?v=Skgn_sIHPp4&t=1310",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrLV6d6xPIPfrkkGCXEjm-8HddNG_DgiC9bSNBix1GWA&s"
+              }
+              ,
+              {
+                  "time": "24:19",
+                  "title": "Podziemne Imperium",
+                  "link": "https://www.youtube.com/watch?v=Skgn_sIHPp4&t=1459",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFnzmq-E7O4TSvAdV32zJkF-tmN2HaChvC48DYlOGiVg&s"
+              }
+              ,
+              {
+                  "time": "26:27",
+                  "title": "Bonsai",
+                  "link": "https://www.youtube.com/watch?v=Skgn_sIHPp4&t=1587",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSubaJ_UvsZ-a05_JNjoWzMd6HtFzEPxekJw3wKPqtM_g&s"
+              }
+              ,
+              {
+                  "time": "28:28",
+                  "title": "AI Space Puzzle",
+                  "link": "https://www.youtube.com/watch?v=Skgn_sIHPp4&t=1708",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7PdN8PmAVk69L5OlDmmccwngSQLXuTh0jSdBAjfOnyQ&s"
+              }
+              ,
+              {
+                  "time": "32:12",
+                  "title": "Parki",
+                  "link": "https://www.youtube.com/watch?v=Skgn_sIHPp4&t=1932",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxeErR2IrV0T5WdkMqt6Sx-_2D5fNeEySGqOW9KBAiJA&s"
+              }
+              ,
+              {
+                  "time": "34:45",
+                  "title": "Marvel United",
+                  "link": "https://www.youtube.com/watch?v=Skgn_sIHPp4&t=2085",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvK6Karvo28DoUa_fvMV2aajSzTFkxfMuc1iv1rhVQow&s"
+              }
+              ,
+              {
+                  "time": "37:41",
+                  "title": "Brzdęk Katakumby",
+                  "link": "https://www.youtube.com/watch?v=Skgn_sIHPp4&t=2261",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjpvcWCcftVdc29pDk5YmbtKCOgz9dEWakgtSfd1SqQ&s"
+              }
+              ,
+              {
+                  "time": "41:06",
+                  "title": "Flamecraft",
+                  "link": "https://www.youtube.com/watch?v=Skgn_sIHPp4&t=2466",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTANb-xBSC--jSRGxlS598Ls_uotR4Yu13cqwbp9i7jOw&s"
+              }
+              ,
+              {
+                  "time": "43:42",
+                  "title": "Zakończenie",
+                  "link": "https://www.youtube.com/watch?v=Skgn_sIHPp4&t=2622",
+                  "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTeJXmSo69wkRXyby5PY6gFar5O5AWEoChYvBUCDpL-w&s"
+              }
+          ]
+      }
+  ]
+  ,
+  "immersive_products":
+  [
+      {
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRmi4qnCri4wB44OcEtkrXf5dYm5mUJGi_wFtt4OlVQf6ow57F2gR1rJaPldzmW51pRalmn66GLKSyiszwaecnC7AI07xE02uvcs7EGS3Ww",
+          "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSoY68gpE1ZFrGgXUDSp_40uhLWHuGE5gNlYO2vIKeV3vMYvns96LokjM12HHa7wrTik07r_PANjHFE3LanS_ZjJAsUUyk",
+          "source": "Ceneo",
+          "title": "Winning Moves Gra Trivial Pursuit Domówka Ultimate",
+          "rating": 4.8,
+          "reviews": 26,
+          "price": "105,99 zł",
+          "extracted_price": 105.99,
+          "immersive_product_page_token": "eyJlaSI6Ik1pNkZadmprT2Q2ZTVOb1BzY2VOMkFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE5NzU1NTIzMzczOTgwODEwMzYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyNTMwNTY1NDYxNTA5MzY5MjkyIiwiaW1hZ2VEb2NpZCI6IjQyNjc4NzE4OTc0NjU4MTY5MjYiLCJyZHMiOiJQQ18xMzc5MjM1NTIzNzg1NTA0MzI3OHxQUk9EX1BDXzEzNzkyMzU1MjM3ODU1MDQzMjc4IiwicXVlcnkiOiJuYWpsZXBzemUrZ3J5K3BsYW5zem93ZSsyMDI0In0=",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ik1pNkZadmprT2Q2ZTVOb1BzY2VOMkFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE5NzU1NTIzMzczOTgwODEwMzYiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyNTMwNTY1NDYxNTA5MzY5MjkyIiwiaW1hZ2VEb2NpZCI6IjQyNjc4NzE4OTc0NjU4MTY5MjYiLCJyZHMiOiJQQ18xMzc5MjM1NTIzNzg1NTA0MzI3OHxQUk9EX1BDXzEzNzkyMzU1MjM3ODU1MDQzMjc4IiwicXVlcnkiOiJuYWpsZXBzemUrZ3J5K3BsYW5zem93ZSsyMDI0In0%3D"
+      }
+      ,
+      {
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRZ3aS4MvFVei4jeP8-V-rgAaX5kZSgH98hzLoHkMREg_hH_-pq6RQdPA5HaMI9Tlb5nsVm_poibDvh-2h_Rslj80wrL4IDEqh4o3cr9-6a",
+          "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRZxL96TTXOZBiYYIxEzUxYx6Uv_Sa8b5UNl8c4YTpKCON99hanLCi6WkEPKRVgkMakbc0QO-yYZZTQqbFp50Sxch8yTkusXcP-5SA",
+          "source": "Media Expert",
+          "title": "Gra Shit Happens Edycja Rodzinna",
+          "rating": 4,
+          "reviews": 2,
+          "price": "79,99 zł",
+          "extracted_price": 79.99,
+          "immersive_product_page_token": "eyJlaSI6Ik1pNkZadmprT2Q2ZTVOb1BzY2VOMkFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjA3Nzg2MjYyOTA4MDE4MTA4IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI0MTE1OTY1MjUwMjg5NDM1NTUiLCJpbWFnZURvY2lkIjoiNDQxMDA5NjkyODk3NTUwNDc5MCIsInJkcyI6IlBDXzEyMjI4MzMzOTkxNjE4MDQ3NTkwfFBST0RfUENfMTIyMjgzMzM5OTE2MTgwNDc1OTAiLCJxdWVyeSI6Im5hamxlcHN6ZStncnkrcGxhbnN6b3dlKzIwMjQifQ==",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ik1pNkZadmprT2Q2ZTVOb1BzY2VOMkFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNjA3Nzg2MjYyOTA4MDE4MTA4IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI0MTE1OTY1MjUwMjg5NDM1NTUiLCJpbWFnZURvY2lkIjoiNDQxMDA5NjkyODk3NTUwNDc5MCIsInJkcyI6IlBDXzEyMjI4MzMzOTkxNjE4MDQ3NTkwfFBST0RfUENfMTIyMjgzMzM5OTE2MTgwNDc1OTAiLCJxdWVyeSI6Im5hamxlcHN6ZStncnkrcGxhbnN6b3dlKzIwMjQifQ%3D%3D"
+      }
+      ,
+      {
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT7Obrz0MXo2U04QL3Lf-WF8D4MC4krSk4n8CEa1n9CmtbT-faAs52au5SUbhyWQlcCJBdwwlqdE3I0VVa1H3am6JIDbQowBpVn9tVufoNk",
+          "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSOQVfe3Hyp3TunWUzOXIuQLzMJMtPSTTBYemwN0U_Rwdl0JORI_NHzW6kMddUjIeDMWqla9D2FW0TEygAXsNj801IAz9I",
+          "source": "rebel.pl",
+          "title": "Rebel Small World",
+          "rating": 5,
+          "reviews": 50,
+          "price": "239,95 zł",
+          "extracted_price": 239.95,
+          "immersive_product_page_token": "eyJlaSI6Ik1pNkZadmprT2Q2ZTVOb1BzY2VOMkFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTczODc5NjUwNTg4NTY0MDM2OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTgyNDg0ODAxNDIxMjQ2MDU0OTUiLCJpbWFnZURvY2lkIjoiMTI3MzU5MDIzMTk0MDY0MjA0NzQiLCJyZHMiOiJQQ18zMTQ0MTA5MDk5NDA3OTM5MDA3fFBST0RfUENfMzE0NDEwOTA5OTQwNzkzOTAwNyIsInF1ZXJ5IjoibmFqbGVwc3plK2dyeStwbGFuc3pvd2UrMjAyNCJ9",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ik1pNkZadmprT2Q2ZTVOb1BzY2VOMkFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTczODc5NjUwNTg4NTY0MDM2OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTgyNDg0ODAxNDIxMjQ2MDU0OTUiLCJpbWFnZURvY2lkIjoiMTI3MzU5MDIzMTk0MDY0MjA0NzQiLCJyZHMiOiJQQ18zMTQ0MTA5MDk5NDA3OTM5MDA3fFBST0RfUENfMzE0NDEwOTA5OTQwNzkzOTAwNyIsInF1ZXJ5IjoibmFqbGVwc3plK2dyeStwbGFuc3pvd2UrMjAyNCJ9"
+      }
+      ,
+      {
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTrfA0-Q3WUDNzzyBO_7SncZMWbfF_RSZ1ugVngjPuvlJXb4ryqQiJ_e2wK8Fg5JUzLKZlvIQR40ipoqQo-IowkW6fg6b25mAlRFl5iB2z3",
+          "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQl8pCxoxnG4Ur2j32lT8hCjALlASzb_OWr30uFU4atQAL6PPUXhnECd56Zg-OTFz-BDi8yCYkz8cKnFVofS3fiNSTJTqE",
+          "source": "Empik.com",
+          "title": "Gra planszowa Spin Master Jumanji",
+          "rating": 4.7,
+          "reviews": 107,
+          "price": "84,99 zł",
+          "extracted_price": 84.99,
+          "immersive_product_page_token": "eyJlaSI6Ik1pNkZadmprT2Q2ZTVOb1BzY2VOMkFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI5OTAxNjUxOTY2NjAyNDcxNzQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM1OTA0MTQwMzcyMjc3MTk3MzgiLCJpbWFnZURvY2lkIjoiMTI2NzcwNjc0ODYzMTMxNzEyODEiLCJyZHMiOiJQQ18zODgwMTk1MDkwODE3MTc3NTc3fFBST0RfUENfMzg4MDE5NTA5MDgxNzE3NzU3NyIsInF1ZXJ5IjoibmFqbGVwc3plK2dyeStwbGFuc3pvd2UrMjAyNCJ9",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ik1pNkZadmprT2Q2ZTVOb1BzY2VOMkFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI5OTAxNjUxOTY2NjAyNDcxNzQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjM1OTA0MTQwMzcyMjc3MTk3MzgiLCJpbWFnZURvY2lkIjoiMTI2NzcwNjc0ODYzMTMxNzEyODEiLCJyZHMiOiJQQ18zODgwMTk1MDkwODE3MTc3NTc3fFBST0RfUENfMzg4MDE5NTA5MDgxNzE3NzU3NyIsInF1ZXJ5IjoibmFqbGVwc3plK2dyeStwbGFuc3pvd2UrMjAyNCJ9"
+      }
+      ,
+      {
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQB6yTq7yBfv-jYfSy4I-6cFsjmi1LMbd590MrHlA1gUdHM-rX7SreSLbyRXJ85hkiXeeiSoJQkeEBYLE9pKu816gbDgVqwPfMPL_tth0kAFnbIyCpq9O1UZA",
+          "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcThtKtEAjOy87_ScjzWg2BQlMWt4eQdpII9OhIWgHexNowhI0E0b1gxsJFyoXNx5LoUzeBn6HGtGzLkTPWduthdiujLibWc1iBqQxOptA",
+          "source": "Portal Games PL",
+          "title": "Clash of Cultures Portal",
+          "rating": 5,
+          "reviews": 13,
+          "price": "619,95 zł",
+          "extracted_price": 619.95,
+          "immersive_product_page_token": "eyJlaSI6Ik1pNkZadmprT2Q2ZTVOb1BzY2VOMkFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIwNzU2OTA3OTk3ODQxMzc0NDIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU4OTIwMjA3MzQ1MjMxNDAxNTEiLCJpbWFnZURvY2lkIjoiOTUxOTA0NTcwNzAyNTA3NDIzMCIsInJkcyI6IlBDXzEzNDU0NjUxMjMxMDIxNTU0Mzk2fFBST0RfUENfMTM0NTQ2NTEyMzEwMjE1NTQzOTYiLCJxdWVyeSI6Im5hamxlcHN6ZStncnkrcGxhbnN6b3dlKzIwMjQifQ==",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ik1pNkZadmprT2Q2ZTVOb1BzY2VOMkFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTIwNzU2OTA3OTk3ODQxMzc0NDIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjU4OTIwMjA3MzQ1MjMxNDAxNTEiLCJpbWFnZURvY2lkIjoiOTUxOTA0NTcwNzAyNTA3NDIzMCIsInJkcyI6IlBDXzEzNDU0NjUxMjMxMDIxNTU0Mzk2fFBST0RfUENfMTM0NTQ2NTEyMzEwMjE1NTQzOTYiLCJxdWVyeSI6Im5hamxlcHN6ZStncnkrcGxhbnN6b3dlKzIwMjQifQ%3D%3D"
+      }
+      ,
+      {
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcScSnQhZyNd9dWejq1586CjAxdpv2NWFPyjZ9A5fIo9EkWzt7U5LuXX1H0ShBoHeoAFd0Cf39QG-v8p-HwfWq8CWwMwsd9yek9UM5_2Apo",
+          "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT8a8mzSX76WNJG5C52aZ-zqNp-7iAUGRGH9-321HAMUzzZNh8y4e4JFqLUiW8Fu1TexJnhhvHApG9Sa24HyD0o0ePm",
+          "source": "Allegro",
+          "title": "Egmont Tikal Gra",
+          "rating": 5,
+          "reviews": 1,
+          "price": "219,00 zł",
+          "extracted_price": 219,
+          "immersive_product_page_token": "eyJlaSI6Ik1pNkZadmprT2Q2ZTVOb1BzY2VOMkFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODcwNjUzNjIzMDExODIxNTMyNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjc5OTI2NzIzMDY2MDM4MjAxNiIsImltYWdlRG9jaWQiOiIxNjg1NzY3MjM3OTU4NTc0ODg2NSIsInJkcyI6IlBDXzE2Mzk0MzQ4NzM4Nzg3MjI0MDM1fFBST0RfUENfMTYzOTQzNDg3Mzg3ODcyMjQwMzUiLCJxdWVyeSI6Im5hamxlcHN6ZStncnkrcGxhbnN6b3dlKzIwMjQifQ==",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ik1pNkZadmprT2Q2ZTVOb1BzY2VOMkFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODcwNjUzNjIzMDExODIxNTMyNiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjc5OTI2NzIzMDY2MDM4MjAxNiIsImltYWdlRG9jaWQiOiIxNjg1NzY3MjM3OTU4NTc0ODg2NSIsInJkcyI6IlBDXzE2Mzk0MzQ4NzM4Nzg3MjI0MDM1fFBST0RfUENfMTYzOTQzNDg3Mzg3ODcyMjQwMzUiLCJxdWVyeSI6Im5hamxlcHN6ZStncnkrcGxhbnN6b3dlKzIwMjQifQ%3D%3D"
+      }
+      ,
+      {
+          "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR3BNrFjUyda1QRY_z1zuErKy11I-xowy_cMjYdXttUu_00-bJBUisOYerWZJwCFrOYrlKX-vF-mc805V3S3tUZkgOMJW0xr9LyMx0UUMea",
+          "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQ5HHKuHMd-yleJrXWypGzIzGsyU7ra2_9LY_C39eCcQSWpH_2JfDz402rrLL9a9PsN1-gt8eXiA1fEBVieLLY-cbiRjGpiVA",
+          "source": "Skąpiec.pl",
+          "title": "Gra Rebel Tajniacy",
+          "rating": 4.9,
+          "reviews": 559,
+          "price": "54,37 zł",
+          "extracted_price": 54.37,
+          "immersive_product_page_token": "eyJlaSI6Ik1pNkZadmprT2Q2ZTVOb1BzY2VOMkFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTkwNzI3NDY3Mzg5NTQ2NzQxMiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODEwMzM1MDY5NzcwMjAzNDAwMCIsImltYWdlRG9jaWQiOiI1MDU1Mjk4MTEwNjMzNjA5OTUiLCJyZHMiOiJQQ18xMDMwOTE2MjcxOTM3MDIyOTAzNHxQUk9EX1BDXzEwMzA5MTYyNzE5MzcwMjI5MDM0IiwicXVlcnkiOiJuYWpsZXBzemUrZ3J5K3BsYW5zem93ZSsyMDI0In0=",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ik1pNkZadmprT2Q2ZTVOb1BzY2VOMkFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTkwNzI3NDY3Mzg5NTQ2NzQxMiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiODEwMzM1MDY5NzcwMjAzNDAwMCIsImltYWdlRG9jaWQiOiI1MDU1Mjk4MTEwNjMzNjA5OTUiLCJyZHMiOiJQQ18xMDMwOTE2MjcxOTM3MDIyOTAzNHxQUk9EX1BDXzEwMzA5MTYyNzE5MzcwMjI5MDM0IiwicXVlcnkiOiJuYWpsZXBzemUrZ3J5K3BsYW5zem93ZSsyMDI0In0%3D"
+      }
+      ,
+      {
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQdfjQJcXDfbAGSstuqk_Kz9VQElDM9PInfavTQ0eez8IiXop8BQQ2XrCN6sKdBdXmGE4UBNXAsLq3vElQiBlYGBmIAUqbZupYc-vZWcuM",
+          "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSoY68gpE1ZFrGgXUDSp_40uhLWHuGE5gNlYO2vIKeV3vMYvns96LokjM12HHa7wrTik07r_PANjHFE3LanS_ZjJAsUUyk",
+          "source": "Ceneo",
+          "title": "Gra Wiem lepiej Rebel",
+          "rating": 5,
+          "reviews": 113,
+          "price": "144,99 zł",
+          "extracted_price": 144.99,
+          "immersive_product_page_token": "eyJlaSI6Ik1pNkZadmprT2Q2ZTVOb1BzY2VOMkFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODIxNTEzNTk4NzYyNzkzODM3OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTk2MjgxMDkxODE0MTQ0OTg0NSIsImltYWdlRG9jaWQiOiIxMjEyNzA3MjEyODEyODE5ODk1MyIsInJkcyI6IlBDXzk3MTY0OTA3MTQ1Mzc1MjMwMzN8UFJPRF9QQ185NzE2NDkwNzE0NTM3NTIzMDMzIiwicXVlcnkiOiJuYWpsZXBzemUrZ3J5K3BsYW5zem93ZSsyMDI0In0=",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6Ik1pNkZadmprT2Q2ZTVOb1BzY2VOMkFFIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODIxNTEzNTk4NzYyNzkzODM3OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiOTk2MjgxMDkxODE0MTQ0OTg0NSIsImltYWdlRG9jaWQiOiIxMjEyNzA3MjEyODEyODE5ODk1MyIsInJkcyI6IlBDXzk3MTY0OTA3MTQ1Mzc1MjMwMzN8UFJPRF9QQ185NzE2NDkwNzE0NTM3NTIzMDMzIiwicXVlcnkiOiJuYWpsZXBzemUrZ3J5K3BsYW5zem93ZSsyMDI0In0%3D"
+      }
+  ]
+  ,
+  "answer_box":
+  {
+      "type": "organic_result",
+      "title": "Najlepsze gry planszowe – ranking 2024 [TOP10]",
+      "link": "https://www.mediaexpert.pl/poradniki/konsole-i-gry/najlepsze-gry-planszowe-ranking",
+      "displayed_link": "https://www.mediaexpert.pl › ... › Konsole i gry › Gry",
+      "date": "17 kwi 2024",
+      "snippet": "Najlepsze gry planszowe – ranking 2024 [TOP10]",
+      "snippet_highlighted_words":
+      [
+          "Najlepsze gry planszowe – ranking 2024 [TOP10]",
+          "Najlepsze gry planszowe",
+          "2024"
+      ]
+      ,
+      "list":
+      [
+          "1 miejsce. REBEL Nemesis (Edycja Polska) ... ",
+          "2 miejsce. LUCKY DUCK GAMES Diuna: Imperium. ... ",
+          "3 miejsce. RUMMIKUB NGT LMD9681. ... ",
+          "4 miejsce. REBEL Wsiąść do pociągu: Europa. ... ",
+          "5 miejsce. REBEL 7 Cudów Świata (Nowa Edycja) ... ",
+          "6 miejsce. REBEL Dixit. ... ",
+          "7 miejsce. ... ",
+          "8 miejsce."
+      ]
+      ,
+      "favicon": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/1cd4eba683aaacbb1544c670f5899d459d9b8f1c1d06678e.png",
+      "source": "Media Expert"
+  }
+  ,
+  "organic_results":
+  [
+      {
+          "position": 1,
+          "title": "Najlepsze gry planszowe 2024 – TOP 30 gier!",
+          "link": "https://www.okiemgracza.pl/najlepsze-gry-planszowe/",
+          "redirect_link": "https://www.google.pl/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.okiemgracza.pl/najlepsze-gry-planszowe/&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQFnoECBkQAQ",
+          "displayed_link": "https://www.okiemgracza.pl › najlepsze-gry-planszowe",
+          "thumbnail": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/4b2db9bf37ec7430185270062a5f84820a5f5eca2f6dcdc8c89a3dcd4136bfef.jpeg",
+          "favicon": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/4b2db9bf37ec7430185270062a5f8482b1da64a08f6186bc5e0bcfc8ae14e546.jpeg",
+          "date": "9 mar 2024",
+          "snippet": "Najlepsze gry TOP30 starannie wyselekcjonowane, aby zapewnić niezapomniane emocje i niezrównane doświadczenia dla każdego miłośnika ...",
+          "snippet_highlighted_words":
+          [
+              "Najlepsze gry"
+          ]
+          ,
+          "rich_snippet":
+          {
+              "top":
+              {
+                  "detected_extensions":
+                  {
+                      "ocena": 5,
+                      "głosy_opinie_nie_są_weryfikowane_przez_wyszukiwarkę_google": 2
+                  }
+                  ,
+                  "extensions":
+                  [
+                      "Ocena: 5",
+                      "‎2 głosy Opinie nie są weryfikowane przez wyszukiwarkę Google"
+                  ]
+              }
+          }
+          ,
+          "source": "Okiemgracza.pl"
+      }
+      ,
+      {
+          "position": 2,
+          "title": "Gry planszowe dla dorosłych – ranking 2024 - GRAM",
+          "link": "https://www.empik.com/pasje/gry-planszowe-dla-doroslych-ranking-2024,131204,a",
+          "redirect_link": "https://www.google.pl/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.empik.com/pasje/gry-planszowe-dla-doroslych-ranking-2024,131204,a&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQFnoECBgQAQ",
+          "displayed_link": "https://www.empik.com › pasje › gry-planszowe-dla-do...",
+          "thumbnail": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/4b2db9bf37ec7430185270062a5f8482a4c39808e30c36fcfd1dfe9807285297.jpeg",
+          "favicon": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/4b2db9bf37ec7430185270062a5f8482b2ca753988b2726464c188f889cdcabf.png",
+          "date": "9 kwi 2024",
+          "snippet": "Gry planszowe dla dorosłych 2024 – ranking · Gra towarzyska dla dorosłych, czyli „Sabotażysta: Wydanie jubileuszowe” · „Dylemat wagonika” Rebel · „ ...",
+          "snippet_highlighted_words":
+          [
+              "Gry planszowe",
+              "2024"
+          ]
+          ,
+          "source": "Empik.com"
+      }
+      ,
+      {
+          "position": 3,
+          "title": "TOP 10: najbardziej wyczekiwane gry planszowe 2024 roku",
+          "link": "https://www.gram.pl/artykul/top-10-najbardziej-wyczekiwane-gry-planszowe-2024-roku",
+          "redirect_link": "https://www.google.pl/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gram.pl/artykul/top-10-najbardziej-wyczekiwane-gry-planszowe-2024-roku&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQFnoECC8QAQ",
+          "displayed_link": "https://www.gram.pl › artykul › top-10-najbardziej-wyc...",
+          "thumbnail": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/4b2db9bf37ec7430185270062a5f8482730f4f8537a8c1d13ca0515368fbcfbd.jpeg",
+          "favicon": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/4b2db9bf37ec7430185270062a5f84821a45d632c98f028f86d0f4f27cd861fb.png",
+          "date": "11 lut 2024",
+          "snippet": "Subiektywny przegląd najbardziej interesujących gier planszowych, których wydanie na polskim rynku zaplanowane jest na nadchodzące miesiące.",
+          "source": "Gram.pl"
+      }
+      ,
+      {
+          "position": 4,
+          "title": "Planszowe Gram Prix",
+          "link": "https://planszowegramprix.pl/",
+          "redirect_link": "https://www.google.pl/url?sa=t&source=web&rct=j&opi=89978449&url=https://planszowegramprix.pl/&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQFnoECCcQAQ",
+          "displayed_link": "https://planszowegramprix.pl",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScqrL40gj7I2C9qcaXhBW40KikIT5ulNo50UG3vJUHZRNoVeQWUu7N&usqp=CAE&s",
+          "favicon": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/4b2db9bf37ec7430185270062a5f8482451cc58bb1584ca3c1dd6f3252bbcb0b.png",
+          "snippet": "Mamy nadzieję, że wyniki Planszowego Gram Prix 2024 pomogą w jeszcze większym rozpropagowaniu tych świetnych gier planszowych, zaś dla zwycięskich sklepów, ...",
+          "snippet_highlighted_words":
+          [
+              "2024"
+          ]
+          ,
+          "source": "Planszowe Gram Prix"
+      }
+      ,
+      {
+          "position": 5,
+          "title": "Najlepsze gry strategiczne - ranking 2024 | TOP10",
+          "link": "https://www.okiemgracza.pl/najlepszy-ranking-strategicznych-gier-planszowych-planszowe-gry-top10/",
+          "redirect_link": "https://www.google.pl/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.okiemgracza.pl/najlepszy-ranking-strategicznych-gier-planszowych-planszowe-gry-top10/&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQFnoECC0QAQ",
+          "displayed_link": "https://www.okiemgracza.pl › najlepszy-ranking-strateg...",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLne3o6TMeYdgO6MOs_wuSrfH65Bt1IMGaBf1VWwBejt_pZfEbahlc&usqp=CAE&s",
+          "favicon": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/4b2db9bf37ec7430185270062a5f84825d34965fbe9f9b52b960a34fe9577a0b.jpeg",
+          "snippet": "Odkryj najlepsze strategiczne gry — przejrzyj nasz ranking i znajdź idealną grę, która przeniesie Twoje umiejętności na wyższy poziom!",
+          "snippet_highlighted_words":
+          [
+              "najlepsze",
+              "gry"
+          ]
+          ,
+          "rich_snippet":
+          {
+              "top":
+              {
+                  "detected_extensions":
+                  {
+                      "ocena": 5,
+                      "głosy_opinie_nie_są_weryfikowane_przez_wyszukiwarkę_google": 2
+                  }
+                  ,
+                  "extensions":
+                  [
+                      "Ocena: 5",
+                      "‎2 głosy Opinie nie są weryfikowane przez wyszukiwarkę Google"
+                  ]
+              }
+          }
+          ,
+          "source": "Okiemgracza.pl"
+      }
+      ,
+      {
+          "position": 6,
+          "title": "Najbardziej oczekiwana gra planszowa 2024 │ Wasz i ...",
+          "link": "https://ontable.pl/najbardziej-oczekiwana-gra-planszowa-2024-%E2%94%82-wasz-i-moj-ranking-gier-%E2%94%82-najlepsze-planszowki/",
+          "redirect_link": "https://www.google.pl/url?sa=t&source=web&rct=j&opi=89978449&url=https://ontable.pl/najbardziej-oczekiwana-gra-planszowa-2024-%25E2%2594%2582-wasz-i-moj-ranking-gier-%25E2%2594%2582-najlepsze-planszowki/&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQFnoECCgQAQ",
+          "displayed_link": "https://ontable.pl › Blog",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV11xqnjI98gOP7VuqwZe-99KPxTsCFz2qi4pwtZGsElTNOZIn7ZJq&usqp=CAE&s",
+          "favicon": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/4b2db9bf37ec7430185270062a5f848291c63c691ccd2a7857826cc80792c4ac.png",
+          "date": "17 kwi 2024",
+          "snippet": "Gra Miesiąca Widzów Gry Planszowe Wideo. Najbardziej oczekiwana gra planszowa 2024 │ Wasz i mój Ranking Gier │ Najlepsze planszówki. 17 ...",
+          "snippet_highlighted_words":
+          [
+              "Gry Planszowe",
+              "2024",
+              "Najlepsze"
+          ]
+          ,
+          "source": "On Table"
+      }
+      ,
+      {
+          "position": 7,
+          "title": "Najlepsze gry planszowe ranking lipiec 2024",
+          "link": "https://allegro.pl/ranking/gry-planszowe",
+          "redirect_link": "https://www.google.pl/url?sa=t&source=web&rct=j&opi=89978449&url=https://allegro.pl/ranking/gry-planszowe&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQFnoECCoQAQ",
+          "displayed_link": "https://allegro.pl › ranking › gry-planszowe",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVE_GSIR-n9bH7Q-wIHUJzKYcOhSleWv-GNniKORHUMjRderLoyTlC&usqp=CAE&s",
+          "favicon": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/4b2db9bf37ec7430185270062a5f84821b2fad7c2c32a068a7890c0d486a831f.png",
+          "snippet": "Sprawdź Najlepsze gry planszowe ranking lipiec 2024 na Allegro! ⭐ Kliknij i znajdź idealny produkt już teraz! Kupuj mądrze i szybko dzięki rankingom.",
+          "snippet_highlighted_words":
+          [
+              "Najlepsze gry planszowe",
+              "2024"
+          ]
+          ,
+          "source": "Allegro"
+      }
+      ,
+      {
+          "position": 8,
+          "title": "Kalendarz premier i dodruków gier",
+          "link": "https://planszeo.pl/kalendarz-premier-i-dodrukow",
+          "redirect_link": "https://www.google.pl/url?sa=t&source=web&rct=j&opi=89978449&url=https://planszeo.pl/kalendarz-premier-i-dodrukow&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQFnoECCsQAQ",
+          "displayed_link": "https://planszeo.pl › kalendarz-premier-i-dodrukow",
+          "favicon": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/4b2db9bf37ec7430185270062a5f84824593b9b8f3f5e7a187b8dab647b7c685.png",
+          "snippet": "Najlepsze gry planszowe, Wsiąść do Pociągu, Catan, Osadnicy z Catanu, najlepsze ... Copyright © Planszeo 2024. Wszelkie prawa zastrzeżone. Przedsprzedaże ...",
+          "snippet_highlighted_words":
+          [
+              "Najlepsze gry planszowe",
+              "najlepsze",
+              "2024"
+          ]
+          ,
+          "sitelinks":
+          {
+              "inline":
+              [
+                  {
+                      "title": "2025",
+                      "link": "https://planszeo.pl/kalendarz-premier-i-dodrukow?year=2025"
+                  }
+                  ,
+                  {
+                      "title": "Grudzień",
+                      "link": "https://planszeo.pl/kalendarz-premier-i-dodrukow?year=2024&month=12"
+                  }
+                  ,
+                  {
+                      "title": "2023",
+                      "link": "https://planszeo.pl/kalendarz-premier-i-dodrukow?year=2023"
+                  }
+                  ,
+                  {
+                      "title": "Marzec",
+                      "link": "https://planszeo.pl/kalendarz-premier-i-dodrukow?year=2024&month=3"
+                  }
+              ]
+          }
+          ,
+          "source": "Planszeo"
+      }
+  ]
+  ,
+  "product_sites":
+  [
+      {
+          "position": 1,
+          "title": "Ranking gier planszowych - Lista najlepszych modeli lipiec 2024",
+          "link": "https://www.skapiec.pl/cat/2601-gry-planszowe/ranking.html",
+          "image": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/ad5164754e3ab99f7d8d6e7a6aa900037ba58cccfe8415e5.jpeg",
+          "source": "Skąpiec.pl",
+          "source_thumbnail": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/ad5164754e3ab99f7d8d6e7a6aa90003348e1c81433a8c3864f60a35a3228d2e83abfd9763f85fcf.png"
+      }
+      ,
+      {
+          "position": 2,
+          "title": "Ranking gier planszowych 2024",
+          "link": "https://ekspert.ceneo.pl/ranking-gier-planszowych",
+          "image": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/ad5164754e3ab99f327b144c7e5cd38db5ac3227671cac73.jpeg",
+          "source": "Ekspert Ceneo",
+          "source_thumbnail": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/ad5164754e3ab99f327b144c7e5cd38d205f5335019c993a7f2b6fa1aa7d0758b9a1564b7e5ee48c.png"
+      }
+      ,
+      {
+          "position": 3,
+          "title": "Ranking gier planszowych edukacyjnych - Lista najlepszych modeli w 2024",
+          "link": "https://www.skapiec.pl/cat/2601-gry-planszowe/ranking-gier-planszowych-edukacyjnych",
+          "image": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/ad5164754e3ab99fb70c4f925f4dfca473f05b6fca17495e.jpeg",
+          "source": "Skąpiec.pl",
+          "source_thumbnail": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/ad5164754e3ab99fb70c4f925f4dfca4002d32c56e385215c3480dde3375025ae63eb1fd38711c19.png"
+      }
+      ,
+      {
+          "position": 4,
+          "title": "Ranking gier planszowych dla dzieci - Lista najlepszych modeli lipiec 2024",
+          "link": "https://www.skapiec.pl/cat/4808-gry-planszowe-dla-dzieci/ranking.html",
+          "image": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/ad5164754e3ab99f3cdee43e4e06dee3ad524e4890d11579.jpeg",
+          "source": "Skąpiec.pl",
+          "source_thumbnail": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/ad5164754e3ab99f3cdee43e4e06dee344e135f93667aa8208b6c6a46720ac13fba1a0e29733316d.png"
+      }
+      ,
+      {
+          "position": 5,
+          "title": "Najlepsze gry planszowe. Ranking TOP 15",
+          "link": "https://magazyn.ceneo.pl/artykuly/najlepsze-gry-planszowe",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuSTSMsjZFzw7Ao7t1ba-b0hNQ9Xop130&s=0",
+          "source": "Magazyn Ceneo",
+          "source_thumbnail": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/ad5164754e3ab99f4008fcec2a9563552ab6e732af60797ad470344effec16c40f345558c5d614cd.png"
+      }
+      ,
+      {
+          "position": 6,
+          "title": "Ranking gier planszowych logicznych - Lista najlepszych modeli w 2024",
+          "link": "https://www.skapiec.pl/cat/2601-gry-planszowe/ranking-gier-planszowych-logicznych",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXrBfdrlFtnhyn2QWj4Gf3pbMjBGkzbVU&s=0",
+          "source": "Skąpiec.pl",
+          "source_thumbnail": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/ad5164754e3ab99f2688cfac20f4679d723e68a4c3778be9fdfcf5488a13b6d3a2eabaf6e61951dc.png"
+      }
+      ,
+      {
+          "position": 7,
+          "title": "Ranking gier planszowych dla 4 latka - Lista najlepszych modeli w 2024",
+          "link": "https://www.skapiec.pl/cat/2601-gry-planszowe/ranking-gier-planszowych-dla-4-latka",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu0TXgr18xwRpWZ2v_9sXust6LMOOf7BE&s=0",
+          "source": "Skąpiec.pl",
+          "source_thumbnail": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/ad5164754e3ab99fa201619ad15297a4d2ffcbc77a01335259264345ab9d835c4b6eb3342bcfbbe7.png"
+      }
+      ,
+      {
+          "position": 8,
+          "title": "Ranking gier planszowych dla 9 latka - Lista najlepszych modeli w 2024",
+          "link": "https://www.skapiec.pl/cat/2601-gry-planszowe/ranking-gier-planszowych-dla-9-latka",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNEYhoE5CnpbVCzp7ig4eNpF2_1UE7KfY&s=0",
+          "source": "Skąpiec.pl",
+          "source_thumbnail": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/ad5164754e3ab99f34f1a1ab13dbc74a4059e4d4f3d36d4dbdbde60844e162a891ba31abbe3e8d42.png"
+      }
+      ,
+      {
+          "position": 9,
+          "title": "Ranking gier planszowych ekonomicznych - Lista najlepszych modeli w 2024",
+          "link": "https://www.skapiec.pl/cat/2601-gry-planszowe/ranking-gier-planszowych-ekonomicznych",
+          "source": "Skąpiec.pl",
+          "source_thumbnail": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/ad5164754e3ab99ff6756cf8a3778691af5895e468bb2bd1050aec841e177db25d0e5135f79120d5.png"
+      }
+      ,
+      {
+          "position": 10,
+          "title": "Ranking gier planszowych przygodowych - Lista najlepszych modeli w 2024",
+          "link": "https://www.skapiec.pl/cat/2601-gry-planszowe/ranking-gier-planszowych-przygodowych",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaAlRHOPDoXJsqb9CnnF_PbpNfCJeTOxk&s=0",
+          "source": "Skąpiec.pl",
+          "source_thumbnail": "https://serpapi.com/searches/66852e322f542edd2b6e0125/images/ad5164754e3ab99fcae81a7f6bb7119441c8933592d3a591ffa4374a44d49dda6bb418ab0406efbe.png"
+      }
+  ]
+  ,
+  "top_stories_link": "https://www.google.pl/search?q=najlepsze+gry+planszowe+2024&sca_esv=aee4e6a7204d31da&sca_upv=1&hl=pl&gl=pl&udm=9&sa=X&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQhbILegQIIRBD",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=pl&google_domain=google.pl&hl=pl&location=Poland&q=najlepsze+gry+planszowe+2024",
+  "related_searches":
+  [
+      {
+          "block_position": 1,
+          "query": "Najlepsze gry planszowe dla dorosłych",
+          "link": "https://www.google.pl/search?sca_esv=aee4e6a7204d31da&sca_upv=1&hl=pl&gl=pl&q=Najlepsze+gry+planszowe+dla+doros%C5%82ych&sa=X&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQ1QJ6BAgyEAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=pl&google_domain=google.pl&hl=pl&location=Poland&q=Najlepsze+gry+planszowe+dla+doros%C5%82ych"
+      }
+      ,
+      {
+          "block_position": 1,
+          "query": "Najlepsze gry planszowe dla dzieci",
+          "link": "https://www.google.pl/search?sca_esv=aee4e6a7204d31da&sca_upv=1&hl=pl&gl=pl&q=Najlepsze+gry+planszowe+dla+dzieci&sa=X&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQ1QJ6BAgwEAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=pl&google_domain=google.pl&hl=pl&location=Poland&q=Najlepsze+gry+planszowe+dla+dzieci"
+      }
+      ,
+      {
+          "block_position": 1,
+          "query": "gry planszowe - ranking światowy",
+          "link": "https://www.google.pl/search?sca_esv=aee4e6a7204d31da&sca_upv=1&hl=pl&gl=pl&q=gry+planszowe+-+ranking+%C5%9Bwiatowy&sa=X&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQ1QJ6BAguEAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=pl&google_domain=google.pl&hl=pl&location=Poland&q=gry+planszowe+-+ranking+%C5%9Bwiatowy"
+      }
+      ,
+      {
+          "block_position": 1,
+          "query": "Fajne gry planszowe dla dorosłych",
+          "link": "https://www.google.pl/search?sca_esv=aee4e6a7204d31da&sca_upv=1&hl=pl&gl=pl&q=Fajne+gry+planszowe+dla+doros%C5%82ych&sa=X&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQ1QJ6BAgsEAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=pl&google_domain=google.pl&hl=pl&location=Poland&q=Fajne+gry+planszowe+dla+doros%C5%82ych"
+      }
+      ,
+      {
+          "block_position": 1,
+          "query": "Empik gry planszowe ranking",
+          "link": "https://www.google.pl/search?sca_esv=aee4e6a7204d31da&sca_upv=1&hl=pl&gl=pl&q=Empik+gry+planszowe+ranking&sa=X&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQ1QJ6BAgpEAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=pl&google_domain=google.pl&hl=pl&location=Poland&q=Empik+gry+planszowe+ranking"
+      }
+      ,
+      {
+          "block_position": 1,
+          "query": "Gry planszowe 2024",
+          "link": "https://www.google.pl/search?sca_esv=aee4e6a7204d31da&sca_upv=1&hl=pl&gl=pl&q=Gry+planszowe+2024&sa=X&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQ1QJ6BAgmEAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=pl&google_domain=google.pl&hl=pl&location=Poland&q=Gry+planszowe+2024"
+      }
+      ,
+      {
+          "block_position": 1,
+          "query": "Fajne gry planszowe rodzinne",
+          "link": "https://www.google.pl/search?sca_esv=aee4e6a7204d31da&sca_upv=1&hl=pl&gl=pl&q=Fajne+gry+planszowe+rodzinne&sa=X&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQ1QJ6BAgkEAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=pl&google_domain=google.pl&hl=pl&location=Poland&q=Fajne+gry+planszowe+rodzinne"
+      }
+      ,
+      {
+          "block_position": 1,
+          "query": "Ranking gier planszowych rodzinnych",
+          "link": "https://www.google.pl/search?sca_esv=aee4e6a7204d31da&sca_upv=1&hl=pl&gl=pl&q=Ranking+gier+planszowych+rodzinnych&sa=X&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQ1QJ6BAgjEAE",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=pl&google_domain=google.pl&hl=pl&location=Poland&q=Ranking+gier+planszowych+rodzinnych"
+      }
+  ]
+  ,
+  "pagination":
+  {
+      "current": 1,
+      "next": "https://www.google.pl/search?q=najlepsze+gry+planszowe+2024&sca_esv=aee4e6a7204d31da&sca_upv=1&hl=pl&gl=pl&ei=Mi6FZvjkOd6e5NoPsceN2AE&start=10&sa=N&sstk=Ad9T53wDhIrFzUeo7SEAJuQinuxFIEGKVzLjMiKRLs34Bo1CDugIb-TQpaUb_nMLitG4eQWgEmeASLTHbnkVcjSZs7TaZ9_6ULZvhQ&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQ8NMDegQIBxAW",
+      "other_pages":
+      {
+          "2": "https://www.google.pl/search?q=najlepsze+gry+planszowe+2024&sca_esv=aee4e6a7204d31da&sca_upv=1&hl=pl&gl=pl&ei=Mi6FZvjkOd6e5NoPsceN2AE&start=10&sa=N&sstk=Ad9T53wDhIrFzUeo7SEAJuQinuxFIEGKVzLjMiKRLs34Bo1CDugIb-TQpaUb_nMLitG4eQWgEmeASLTHbnkVcjSZs7TaZ9_6ULZvhQ&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQ8tMDegQIBxAE",
+          "3": "https://www.google.pl/search?q=najlepsze+gry+planszowe+2024&sca_esv=aee4e6a7204d31da&sca_upv=1&hl=pl&gl=pl&ei=Mi6FZvjkOd6e5NoPsceN2AE&start=20&sa=N&sstk=Ad9T53wDhIrFzUeo7SEAJuQinuxFIEGKVzLjMiKRLs34Bo1CDugIb-TQpaUb_nMLitG4eQWgEmeASLTHbnkVcjSZs7TaZ9_6ULZvhQ&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQ8tMDegQIBxAG",
+          "4": "https://www.google.pl/search?q=najlepsze+gry+planszowe+2024&sca_esv=aee4e6a7204d31da&sca_upv=1&hl=pl&gl=pl&ei=Mi6FZvjkOd6e5NoPsceN2AE&start=30&sa=N&sstk=Ad9T53wDhIrFzUeo7SEAJuQinuxFIEGKVzLjMiKRLs34Bo1CDugIb-TQpaUb_nMLitG4eQWgEmeASLTHbnkVcjSZs7TaZ9_6ULZvhQ&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQ8tMDegQIBxAI",
+          "5": "https://www.google.pl/search?q=najlepsze+gry+planszowe+2024&sca_esv=aee4e6a7204d31da&sca_upv=1&hl=pl&gl=pl&ei=Mi6FZvjkOd6e5NoPsceN2AE&start=40&sa=N&sstk=Ad9T53wDhIrFzUeo7SEAJuQinuxFIEGKVzLjMiKRLs34Bo1CDugIb-TQpaUb_nMLitG4eQWgEmeASLTHbnkVcjSZs7TaZ9_6ULZvhQ&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQ8tMDegQIBxAK",
+          "6": "https://www.google.pl/search?q=najlepsze+gry+planszowe+2024&sca_esv=aee4e6a7204d31da&sca_upv=1&hl=pl&gl=pl&ei=Mi6FZvjkOd6e5NoPsceN2AE&start=50&sa=N&sstk=Ad9T53wDhIrFzUeo7SEAJuQinuxFIEGKVzLjMiKRLs34Bo1CDugIb-TQpaUb_nMLitG4eQWgEmeASLTHbnkVcjSZs7TaZ9_6ULZvhQ&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQ8tMDegQIBxAM",
+          "7": "https://www.google.pl/search?q=najlepsze+gry+planszowe+2024&sca_esv=aee4e6a7204d31da&sca_upv=1&hl=pl&gl=pl&ei=Mi6FZvjkOd6e5NoPsceN2AE&start=60&sa=N&sstk=Ad9T53wDhIrFzUeo7SEAJuQinuxFIEGKVzLjMiKRLs34Bo1CDugIb-TQpaUb_nMLitG4eQWgEmeASLTHbnkVcjSZs7TaZ9_6ULZvhQ&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQ8tMDegQIBxAO",
+          "8": "https://www.google.pl/search?q=najlepsze+gry+planszowe+2024&sca_esv=aee4e6a7204d31da&sca_upv=1&hl=pl&gl=pl&ei=Mi6FZvjkOd6e5NoPsceN2AE&start=70&sa=N&sstk=Ad9T53wDhIrFzUeo7SEAJuQinuxFIEGKVzLjMiKRLs34Bo1CDugIb-TQpaUb_nMLitG4eQWgEmeASLTHbnkVcjSZs7TaZ9_6ULZvhQ&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQ8tMDegQIBxAQ",
+          "9": "https://www.google.pl/search?q=najlepsze+gry+planszowe+2024&sca_esv=aee4e6a7204d31da&sca_upv=1&hl=pl&gl=pl&ei=Mi6FZvjkOd6e5NoPsceN2AE&start=80&sa=N&sstk=Ad9T53wDhIrFzUeo7SEAJuQinuxFIEGKVzLjMiKRLs34Bo1CDugIb-TQpaUb_nMLitG4eQWgEmeASLTHbnkVcjSZs7TaZ9_6ULZvhQ&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQ8tMDegQIBxAS",
+          "10": "https://www.google.pl/search?q=najlepsze+gry+planszowe+2024&sca_esv=aee4e6a7204d31da&sca_upv=1&hl=pl&gl=pl&ei=Mi6FZvjkOd6e5NoPsceN2AE&start=90&sa=N&sstk=Ad9T53wDhIrFzUeo7SEAJuQinuxFIEGKVzLjMiKRLs34Bo1CDugIb-TQpaUb_nMLitG4eQWgEmeASLTHbnkVcjSZs7TaZ9_6ULZvhQ&ved=2ahUKEwj4xcPh2oqHAxVeD1kFHbFjAxsQ8tMDegQIBxAU"
+      }
+  }
+  ,
+  "serpapi_pagination":
+  {
+      "current": 1,
+      "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=pl&google_domain=google.pl&hl=pl&location=Poland&q=najlepsze+gry+planszowe+2024&start=10",
+      "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=pl&google_domain=google.pl&hl=pl&location=Poland&q=najlepsze+gry+planszowe+2024&start=10",
+      "other_pages":
+      {
+          "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=pl&google_domain=google.pl&hl=pl&location=Poland&q=najlepsze+gry+planszowe+2024&start=10",
+          "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=pl&google_domain=google.pl&hl=pl&location=Poland&q=najlepsze+gry+planszowe+2024&start=20",
+          "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=pl&google_domain=google.pl&hl=pl&location=Poland&q=najlepsze+gry+planszowe+2024&start=30",
+          "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=pl&google_domain=google.pl&hl=pl&location=Poland&q=najlepsze+gry+planszowe+2024&start=40",
+          "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=pl&google_domain=google.pl&hl=pl&location=Poland&q=najlepsze+gry+planszowe+2024&start=50",
+          "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=pl&google_domain=google.pl&hl=pl&location=Poland&q=najlepsze+gry+planszowe+2024&start=60",
+          "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=pl&google_domain=google.pl&hl=pl&location=Poland&q=najlepsze+gry+planszowe+2024&start=70",
+          "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=pl&google_domain=google.pl&hl=pl&location=Poland&q=najlepsze+gry+planszowe+2024&start=80",
+          "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=pl&google_domain=google.pl&hl=pl&location=Poland&q=najlepsze+gry+planszowe+2024&start=90"
+      }
+  }
+}
