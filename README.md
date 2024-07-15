@@ -43,4 +43,4 @@ The script generates a `response.json` file containing an array of parsed articl
 "categories": ["Category1", "Category2"],
 "date": "2024-07-15T12:00:00Z",
 "content": "Article content..."
-}# Web-Scraper-and-Article-Parser
+}
